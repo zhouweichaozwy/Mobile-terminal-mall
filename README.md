@@ -74,4 +74,4 @@ yarn dev
 
 #### 项目动态演示：
 
-![项目动态演示](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/%E9%A1%B9%E7%9B%AE%E5%8A%A8%E6%80%81%E6%BC%94%E7%A4%BA.gif)
+![项目动态演示](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/10.gif)
