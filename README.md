@@ -7,7 +7,7 @@
 ### 📥 安装步骤
 #### 克隆项目
 ```
-git clone [项目仓库地址]
+git clone https://github.com/zhouweichaozwy/Mobile-terminal-mall.git
 ```
 #### 进入后端文件夹目录
 
