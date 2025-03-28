@@ -98,44 +98,44 @@ npm run build
 
 #### 首页：
 
-![首页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328162958709.png)
+![首页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328162958709.png)
 
 #### 分类页
 
-![分类页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328163542566.png)
+![分类页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328163542566.png)
 
 #### 消息页
 
-![消息页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328163614055.png)
+![消息页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328163614055.png)
 
 #### 购物车页
 
-![购物车页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328163709927.png)
+![购物车页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328163709927.png)
 
 #### 个人中心页
 
-![个人中心页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328163746424.png)
+![个人中心页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328163746424.png)
 
 ### 注册页
 
-![注册页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328163928941.png)
+![注册页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328163928941.png)
 
 #### 登录页
 
-![登录页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328164033207.png)
+![登录页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328164033207.png)
 
 #### 商品列表页
 
-![商品列表页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328164126174.png)
+![商品列表页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328164126174.png)
 
 #### 商品详情页
 
-![商品详情页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328164211120.png)
+![商品详情页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328164211120.png)
 
 #### 已登录页
 
-![已登录页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/image-20250328164337109.png)
+![已登录页](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/image-20250328164337109.png)
 
 #### 项目动态演示：
 
-![项目动态演示](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Mobile-terminal-mall@main/README.assets/10.gif)
+![项目动态演示](https://gitee.com/longmaozwy/mobile-terminal-mall/raw/master/README.assets/10.gif)
