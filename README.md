@@ -27,7 +27,7 @@ npm install      
 npm start
 ```
 
-#### 进入前端文件夹
+#### 进入前端文件夹目录
 ```
 cd Mobile-terminal-mall
 ```
