@@ -7,7 +7,7 @@
 - UI组件库：Element Plus 
 - HTTP请求： Axios    
 - CSS预处理器： Sass
--构建工具：vite
+- 构建工具：vite
 ## 🚀 安装与运行
 ### 📋 环境要求
 - Node.js (推荐v14.0.0以上)
