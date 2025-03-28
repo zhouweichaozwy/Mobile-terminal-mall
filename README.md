@@ -4,9 +4,9 @@
 - 前端框架： Vue3
 - 路由管理：Vue Router4
 - 状态管理： Pinia 
-- UI组件库：Element Plus 
+- UI组件库：Vant4
 - HTTP请求： Axios    
-- CSS预处理器： Sass
+- CSS预处理器： Less
 - 构建工具：vite
 ## 🚀 安装与运行
 ### 📋 环境要求
